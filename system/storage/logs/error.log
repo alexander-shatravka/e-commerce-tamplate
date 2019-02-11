@@ -1,0 +1,35 @@
+2019-02-05 13:12:41 - PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'viral_viral'@'116.203.17.49' (using password: YES) in /home/viral/web/test4machine.viral.com.ua/public_html/system/library/db/mysqli.php on line 7
+2019-02-05 13:12:41 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/viral/web/test4machine.viral.com.ua/public_html/system/library/db/mysqli.php on line 10
+2019-02-05 13:12:41 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/viral/web/test4machine.viral.com.ua/public_html/system/library/db/mysqli.php on line 10
+2019-02-05 13:12:41 - PHP Notice:  Undefined variable: mysql in /home/viral/web/test4machine.viral.com.ua/public_html/install/controller/install/step_3.php on line 280
+2019-02-05 13:12:41 - PHP Notice:  Trying to get property of non-object in /home/viral/web/test4machine.viral.com.ua/public_html/install/controller/install/step_3.php on line 280
+2019-02-05 13:13:11 - PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'viral_viral'@'116.203.17.49' (using password: YES) in /home/viral/web/test4machine.viral.com.ua/public_html/system/library/db/mysqli.php on line 7
+2019-02-05 13:13:11 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/viral/web/test4machine.viral.com.ua/public_html/system/library/db/mysqli.php on line 10
+2019-02-05 13:13:11 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/viral/web/test4machine.viral.com.ua/public_html/system/library/db/mysqli.php on line 10
+2019-02-05 13:13:11 - PHP Notice:  Undefined variable: mysql in /home/viral/web/test4machine.viral.com.ua/public_html/install/controller/install/step_3.php on line 280
+2019-02-05 13:13:11 - PHP Notice:  Trying to get property of non-object in /home/viral/web/test4machine.viral.com.ua/public_html/install/controller/install/step_3.php on line 280
+2019-02-05 13:13:16 - PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'viral_viral'@'116.203.17.49' (using password: YES) in /home/viral/web/test4machine.viral.com.ua/public_html/system/library/db/mysqli.php on line 7
+2019-02-05 13:13:16 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/viral/web/test4machine.viral.com.ua/public_html/system/library/db/mysqli.php on line 10
+2019-02-05 13:13:16 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/viral/web/test4machine.viral.com.ua/public_html/system/library/db/mysqli.php on line 10
+2019-02-05 13:13:16 - PHP Notice:  Undefined variable: mysql in /home/viral/web/test4machine.viral.com.ua/public_html/install/controller/install/step_3.php on line 280
+2019-02-05 13:13:16 - PHP Notice:  Trying to get property of non-object in /home/viral/web/test4machine.viral.com.ua/public_html/install/controller/install/step_3.php on line 280
+2019-02-05 13:14:10 - PHP Warning:  realpath(): open_basedir restriction in effect. File(/home/viral/web/test4machine.viral.com.ua) is not within the allowed path(s): (/home/viral/web/test4machine.viral.com.ua/public_html:/home/viral/tmp) in /home/viral/web/test4machine.viral.com.ua/public_html/admin/controller/common/security.php on line 26
+2019-02-05 13:14:10 - PHP Warning:  Division by zero in /home/viral/web/test4machine.viral.com.ua/public_html/admin/model/localisation/currency.php on line 141
+2019-02-05 13:14:10 - PHP Warning:  Division by zero in /home/viral/web/test4machine.viral.com.ua/public_html/admin/model/localisation/currency.php on line 141
+2019-02-05 13:14:10 - PHP Warning:  Division by zero in /home/viral/web/test4machine.viral.com.ua/public_html/admin/model/localisation/currency.php on line 141
+2019-02-05 13:34:08 - PHP Warning:  realpath(): open_basedir restriction in effect. File(/home/viral/web/test4machine.viral.com.ua) is not within the allowed path(s): (/home/viral/web/test4machine.viral.com.ua/public_html:/home/viral/tmp) in /home/viral/web/test4machine.viral.com.ua/public_html/admin/controller/common/security.php on line 26
+2019-02-05 13:34:09 - PHP Warning:  Division by zero in /home/viral/web/test4machine.viral.com.ua/public_html/admin/model/localisation/currency.php on line 141
+2019-02-05 13:34:09 - PHP Warning:  Division by zero in /home/viral/web/test4machine.viral.com.ua/public_html/admin/model/localisation/currency.php on line 141
+2019-02-05 13:34:09 - PHP Warning:  Division by zero in /home/viral/web/test4machine.viral.com.ua/public_html/admin/model/localisation/currency.php on line 141
+2019-02-05 13:40:29 - PHP Warning:  realpath(): open_basedir restriction in effect. File(/home/viral/web/test4machine.viral.com.ua) is not within the allowed path(s): (/home/viral/web/test4machine.viral.com.ua/public_html:/home/viral/tmp) in /home/viral/web/test4machine.viral.com.ua/public_html/admin/controller/common/security.php on line 26
+2019-02-05 13:40:29 - PHP Warning:  Division by zero in /home/viral/web/test4machine.viral.com.ua/public_html/admin/model/localisation/currency.php on line 141
+2019-02-05 13:40:29 - PHP Warning:  Division by zero in /home/viral/web/test4machine.viral.com.ua/public_html/admin/model/localisation/currency.php on line 141
+2019-02-05 13:40:29 - PHP Warning:  Division by zero in /home/viral/web/test4machine.viral.com.ua/public_html/admin/model/localisation/currency.php on line 141
+2019-02-05 14:54:25 - PHP Warning:  realpath(): open_basedir restriction in effect. File(/home/viral/web/test4machine.viral.com.ua) is not within the allowed path(s): (/home/viral/web/test4machine.viral.com.ua/public_html:/home/viral/tmp) in /home/viral/web/test4machine.viral.com.ua/public_html/admin/controller/common/security.php on line 26
+2019-02-05 14:54:25 - PHP Warning:  Division by zero in /home/viral/web/test4machine.viral.com.ua/public_html/admin/model/localisation/currency.php on line 141
+2019-02-05 14:54:25 - PHP Warning:  Division by zero in /home/viral/web/test4machine.viral.com.ua/public_html/admin/model/localisation/currency.php on line 141
+2019-02-05 14:54:25 - PHP Warning:  Division by zero in /home/viral/web/test4machine.viral.com.ua/public_html/admin/model/localisation/currency.php on line 141
+2019-02-05 14:55:17 - PHP Warning:  realpath(): open_basedir restriction in effect. File(/home/viral/web/test4machine.viral.com.ua) is not within the allowed path(s): (/home/viral/web/test4machine.viral.com.ua/public_html:/home/viral/tmp) in /home/viral/web/test4machine.viral.com.ua/public_html/admin/controller/common/security.php on line 26
+2019-02-05 14:55:17 - PHP Warning:  Division by zero in /home/viral/web/test4machine.viral.com.ua/public_html/admin/model/localisation/currency.php on line 141
+2019-02-05 14:55:17 - PHP Warning:  Division by zero in /home/viral/web/test4machine.viral.com.ua/public_html/admin/model/localisation/currency.php on line 141
+2019-02-05 14:55:17 - PHP Warning:  Division by zero in /home/viral/web/test4machine.viral.com.ua/public_html/admin/model/localisation/currency.php on line 141
